@@ -26,7 +26,7 @@
 [CRE产品线]()
 
   * # 解决方案
-  * [SubMenu Item 1](pages/subitem1.md)
+  * [SubMenu Item 1](pages/tpl.md)
   * [SubMenu Item 2](pages/subitem2.md)
   - - - -
   * # 产品文档
