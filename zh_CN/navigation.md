@@ -3,7 +3,7 @@
   -- Do NOT remove the leading `#` character.
   -->
 
-# CRE DOCS
+# DY DOCS
 
 
 <!--
@@ -20,7 +20,22 @@
   -->
 
 [About](pages/about.md)
-[Download](pages/download.md)
+<!-- [Download](pages/download.md)
+-->
+
+[CRE产品线]()
+
+  * # 解决方案
+  * [SubMenu Item 1](pages/subitem1.md)
+  * [SubMenu Item 2](pages/subitem2.md)
+  - - - -
+  * # 产品文档
+  * [SubMenu Item 3](pages/subitem3.md)
+  - - - -
+  * # 产品使用
+  * [SubMenu Item 3](pages/subitem3.md)
+
+
 
 <!-- A more complex navigation example: ----------------------------------------
 
